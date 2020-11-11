@@ -4,17 +4,17 @@
 
 Aedes : https://github.com/moscajs/aedes
 
-´$ npm init´
+`$ npm init`
 
-´$ npm install´
+`$ npm install`
 
-´$ npm install aedes´
+`$ npm install aedes`
 
 
 ## Cliente (subscriber ou publisher)
 
-´$ npm init´
+`$ npm init`
 
-´$ npm install´
+`$ npm install`
 
-´$ npm install mqtt´
+`$ npm install mqtt`
